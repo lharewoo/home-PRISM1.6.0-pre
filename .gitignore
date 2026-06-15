@@ -1,0 +1,27 @@
+# Build artifacts
+*.o
+*.mod
+*.so
+*.a
+*.exe
+*.out
+
+# PRISM build directories
+build/
+bin/
+obj/
+mod/
+
+# Generated data
+output/
+results/
+*.dat
+*.tmp
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
